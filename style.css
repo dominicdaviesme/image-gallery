@@ -15,3 +15,46 @@ body {
 
 
 /*End Common Styles*/
+
+header {
+	overflow: hidden;
+}
+
+header h1 {
+	float: left;
+	color: #555;
+	font-size: 160%;
+}
+
+nav {
+	float: right;
+}
+
+nav ul li {
+	/*	remove bullets*/
+	list-style: none;
+	float: left;
+	margin-left: 20px;
+}
+
+nav ul li a {
+	/*	removes underline*/
+	text-decoration: none;
+	font-size: 130%;
+	font-weight: 600;
+	color: #555;
+}
+
+nav ul li a:hover {
+	color: #aaa;	
+}
+
+/*End Navigation */
+
+
+
+
+
+
+
+
