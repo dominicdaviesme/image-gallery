@@ -132,10 +132,28 @@ footer {
 		display: block;
 	}
 	
-	
+	section div.container img {
+		display: block;
+		float: none;
+		width: 100%;
+		height: auto;
+	}
 }
 
-
+@media only screen and (min-width: 769px) and
+(max-width: 1024px) {
+	.wrapper {
+		width: 100%;
+	}
+	header h1 {
+		margin-left: 3%;
+	}
+	
+	nav {
+		margin-right: 3%;
+	}
+	
+}
 
 
 
