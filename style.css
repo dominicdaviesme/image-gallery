@@ -84,6 +84,32 @@ footer {
 	padding-bottom: 10px;
 }
 
+@media only screen and (max-width: 768px) {
+	.wrapper {
+		width: 100%;
+	}
+	
+	header h1 {
+		margin-left: 3%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
