@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+}
+
+.wrapper {
+	width: 80%;
+	margin: auto;
+	/*	don't exceed this width*/
+	max-width: 1200px;
+}
+
+
+/*End Common Styles*/
